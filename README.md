@@ -158,7 +158,7 @@ Through this project, I gained practical experience with:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/raspberry-pi-nextcloud.git
+git clone https://github.com/harison-ford/raspberry-pi-nextcloud.git
 cd raspberry-pi-nextcloud
 ```
 
